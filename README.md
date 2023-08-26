@@ -2,7 +2,7 @@
 
 Pokedex realizada para o desafio da DIO - Bootcamp Fullstack Java + Angular.
 
-Projeto Pokedex finalizado, sendo realizado o desafio de consumir, da PokeAPI, detalhes extras dos Pokemon's. Neste projeto, destaco: 
+Projeto Pokedex finalizado, sendo realizado o desafio de consumir, da PokeAPI, detalhes extras dos Pokemons. Neste projeto, destaco: 
 
 - A Integração com a PokeAPI: Utilizei a API pública PokeAPI para obter dados sobre os Pokémons, como detalhes, tipos, imagens etc.
 
